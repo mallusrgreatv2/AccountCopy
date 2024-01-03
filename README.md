@@ -8,7 +8,19 @@ Discord selfbot to copy profiles of other users.
 
 # DOCUMENTATION
 ## How to use
-### Impersonation
+### Setup
+- Download [NodeJS](https://nodejs.org/)
+- Install it
+- Restart your computer
+- At the top click on the green "Code" button
+- Click "Download ZIP" button
+![image](https://github.com/mallusrgreatv2/AccountCopy/assets/69511006/41975414-8f51-4a45-b005-d37d20ff9623)
+- Download and extract the zip file
+- In the folder you extracted the files in, type "cmd" in the address bar of the file explorer.
+- Type "node index.js" and hit enter.
+- Follow the instructions and use the "node index.js" command to start the selfbot again when you're done following.
+### Commands
+#### Impersonation
 In the host account use the command >>impersonate followed by the user or user ID
 ### Copy Pasting
 - Make a server with all the accounts.
