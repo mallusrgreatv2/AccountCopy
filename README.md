@@ -22,7 +22,7 @@ Discord selfbot to copy profiles of other users.
 ### Commands
 #### Impersonation
 In the host account use the command >>impersonate followed by the user or user ID
-### Copy Pasting
+#### Copy Pasting
 - Make a server with all the accounts.
 - In the host account use command >>copy in the server.
 - In other accounts use >>paste in the same server.
